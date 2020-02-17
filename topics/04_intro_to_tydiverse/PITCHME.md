@@ -21,10 +21,10 @@
 
 - Langkah pertama untuk menggunakan paket *tydiverse* adalah dengan menginstallnya dan memuat dalam workspace
 
-```
-install.packages("tydyverse")
-library(tidyverse)
-```
+    ```
+    install.packages("tydyverse")
+    library(tidyverse)
+    ```
 
 +++
 
