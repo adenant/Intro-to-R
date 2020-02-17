@@ -1,5 +1,5 @@
----?include=topics/cover/PITCHME.md
----?include=topics/agenda/PITCHME.md
----?include=topics/intro-to-R-and-Rstudio/PITCHME.md
----?include=topics/intro_to_tydiverse/PITCHME.md
----?include=topics/data_manipulation_tydiverse/PITCHME.md
+---?include=topics/01_cover/PITCHME.md
+---?include=topics/02_agenda/PITCHME.md
+---?include=topics/03_intro-to-R-and-Rstudio/PITCHME.md
+---?include=topics/04_intro_to_tydiverse/PITCHME.md
+---?include=topics/05_data_manipulation_tydiverse/PITCHME.md
