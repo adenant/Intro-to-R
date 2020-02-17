@@ -1,8 +1,5 @@
 ## Agenda
 
-- Bagian I
-    - Social Media Sebagai Ruang Expresi Opini & Gagasan Individu di Era Digital
-    - Pengenalan Perangkat Lunak R dan RStudio
-- Bagian II/III
-    - Penggalian dan Pembersihan Data Teks
-    - Analisis Teks Sederhana
+- Bagian 1: Pengenalan R
+- Bagian 2: Pengenalan paket *tidyverse*
+- Bagian 3: Manipulasi data dengan *tidyverse*
