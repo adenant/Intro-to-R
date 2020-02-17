@@ -8,12 +8,24 @@
 - Memahami sintaksis fungsi dalam paket *dplyr* dan *tidyr*
 
 +++
-### Mengenal paket *tydyverse*
+
+### Mengenal paket *tydyverse* (1)
 
 - Paket *tydiverse* merupakan sebuah “umbrella-package” yang  berisikan beberapa paket yang bermanfaat untuk manipulasi data: *tidyr, dplyr, ggplot2, tibble*, dsb.
 - Bermaksud mengatasi beberapa permasalahan umum dalam R, misal kerancuan penulisan perintah/ekspresi maupun argument fungsi yang tersembunyi
 - Pada sesi ini, kita akan fokus pada 2 sub-paket dalam tydiverse: *tidyr* & *dplyr*
     
++++
+
+### Mengenal paket *tydyverse* (2)
+
+- Langkah pertama untuk menggunakan paket *tydiverse* adalah dengan menginstallnya dan memuat dalam workspace
+
+```
+install.packages("tydyverse")
+library(tidyverse)
+```
+
 +++
 
 ### Apa itu *dplyr* and *tidyr*?
