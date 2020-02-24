@@ -28,7 +28,7 @@
 
 +++
 
-### Apa itu *dplyr* and *tidyr*?
+### Apa itu *dplyr* and *tidyr*? (1)
 - Paket *dplyr* menyediakan *tools* yang umum digunakan dalam manipulasi data
 - Paket ini dirancang khusus untuk bekerja dengan *data frame*, yang berbagai fungsi/kerja umumnya telah di optimasi dengan cara ditulis dalam sebuah *compiled language* (C++)
 - Fitur tambahan meliputi kemampuan untuk bekerja secara langsung dengan data yang disimpan dalan database eksternal
@@ -36,3 +36,10 @@
 
 +++
 
+### Apa itu *dplyr* and *tidyr*? (2)
+- Fitur-fitur diatas mengatasi permasalahan umum dalam R dimana semua operasi dilakukan dalam memory, oleh karenanya jumlah data yang dapat diolah akan dibatasi oleh ketersedian RAM
+- Relasi database menghilangkan keterbatasan ini, dimana user dapat terhubung dengan sebuah atau beberapa database berukuran besar, melakukan seleksi variable dan observasi, dan "menarik" data kedalam R
+
++++
+
+###
